@@ -1,0 +1,12 @@
+{
+  "staff" : {
+    "vander_sal" : {
+      "name" : "Kearney Vander Sal",
+      "email" : "kvandersal@sbunified.org",
+      "extension" : "5069",
+      "department" : "Band",
+      "jobTitle" : "Director",
+      "imgUrl" : "https://github.com/SiLordOfLight/OliveAndGoldData/blob/master/StaffPictures/vander_sal.jpeg"
+    }
+  }
+}
